@@ -1,0 +1,8 @@
+Patta Nora,31,nő,1,2
+Remek Elek,12,ffi,3,4
+Szalmon Ella,23,nő,5
+Techno Kolos,41,ffi,6
+Trab Antal,30,ffi,7,8
+Ultra Viola,11,nő,9,10,11
+Am Erika,27,nő,12,13
+Bac Ilus,62,nő,14

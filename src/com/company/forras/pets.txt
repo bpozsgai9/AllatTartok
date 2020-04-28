@@ -1,0 +1,14 @@
+1,Lizi,gyík,5
+2,Hedvig,bagoly,11
+3,Zeusz,doberman,7
+4,Apollo,doberman,7
+5,Murci,perzsamacska,11
+6,Leila,macska,6
+7,Mogyoro,macska,22
+8,Maci,bernáthegyi,9
+9,Elvis,botsáska,1
+10,Rambo,foltos szalamandra,2
+11,Magnum,piton,20
+12,Pedro,bernáthegyi,6
+13,Samson,csivava,3
+14,Mazsola,elefánt,32
